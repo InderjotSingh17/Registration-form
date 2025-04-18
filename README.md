@@ -1,4 +1,5 @@
 🔐 Django Registration Form
+
 A simple and elegant User Registration System built with Django, styled using Bootstrap 5, and powered by MySQL.
 
 Whether you're learning Django or need a foundation for a more complex authentication system, this project gives you a clean, customizable starting point.
@@ -12,15 +13,17 @@ Whether you're learning Django or need a foundation for a more complex authentic
 ✅ Fully functional user registration form with real-time form validation
 
 🖼️ Live UI Preview
+
 A modern and mobile-friendly registration form:
 
 Create an Account
+
 Username | Email | Phone | Password | Confirm Password
+
 🔒 With password strength validation & error handling
 
-(Add a screenshot or GIF here if you like!)
-
 🛠 Tech Stack
+
 Python 3.13
 
 Django 5.1.2
@@ -32,6 +35,7 @@ Bootstrap 5 (CDN)
 HTML/CSS
 
 🔐 Security Highlights
+
 Django's password strength validation
 
 CSRF protection built into every form
@@ -39,6 +43,7 @@ CSRF protection built into every form
 Server-side form validation with clear error messages
 
 💡 Future Improvements
+
  Add login & logout views
 
  Email verification
@@ -50,6 +55,7 @@ Server-side form validation with clear error messages
  Deployment (Render, Railway, etc.)
 
 🤝 Contribute
+
 Want to improve or expand the project?
 Contributions, suggestions, and pull requests are welcome! Just fork, commit, and submit a PR.
 
